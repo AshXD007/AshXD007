@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshXD007
 - 👀 I’m interested in startups
 - 🌱 I’m currently learning Web dev
-- 📫 How to reach me ...
+- 📫 reach me on twitter
 
 <!---
 AshXD007/AshXD007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
