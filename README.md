@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ashad</h1>
-<h3 align="center">A Full Stack Web Developer , Freelancer From India</h3>
+<h3 align="center">A Software Developer & Indie Hacker From 🇮🇳  India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashxd007&label=Profile%20views&color=0e75b6&style=flat" alt="ashxd007" /> </p>
 
