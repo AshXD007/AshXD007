@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashxd007&label=Profile%20views&color=0e75b6&style=flat" alt="ashxd007" /> </p>
 
-- 🔭 I’m currently working on **stocker**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **VueJs**
 
 - 💬 Ask me about **JavaScript,MongoDB,Node.JS**
 
